@@ -1,0 +1,22 @@
+.app {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .color-picker-container {
+    margin-bottom: 20px;
+  }
+  
+  .color-display-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .color-display-container button {
+    margin: 10px;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+  
